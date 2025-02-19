@@ -30,7 +30,7 @@ import org.jetbrains.annotations.NotNull;
  *
  * @author Nakatani Shuyo
  * @author Fabian Kessler
- */
+ */	
 public class DetectedLanguage implements Comparable<DetectedLanguage> {
 
     @NotNull
